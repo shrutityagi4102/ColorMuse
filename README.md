@@ -1,3 +1,3 @@
-<h1 align="center">PedalPal</h3>
+<h1 align="center">ColorMuse</h3>
 
 *An app for colour blind people*
